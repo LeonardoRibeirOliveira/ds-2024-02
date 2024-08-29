@@ -1,0 +1,2 @@
+<h1>Aniversário do Leonardo - 25/07/2003</h1>
+<p>A ideia é reunir amigos e familiares em um ambiente descontraído, com música goiana, rock e samba para animar a festa. Vamos organizar um churrasco completo, com carne de qualidade e acompanhamentos típicos. As bebidas vão incluir cerveja gelada, caipirinha e refrigerantes para quem preferir. Será uma celebração ao ar livre, em uma chácara, com truco e sinuca para jogos.</p>

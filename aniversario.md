@@ -2,6 +2,14 @@
 
 <p>A ideia é reunir amigos e familiares em um ambiente descontraído, com música goiana, rock e samba para animar a festa. Vamos organizar um churrasco completo, com carne e acompanhamentos típicos, como feijão tropeiro, vinagrete, mandioca cozida e arroz. As bebidas vão incluir cerveja gelada, caipirinha e refrigerantes para quem preferir. Será uma celebração ao ar livre, em uma chácara, com truco e sinuca para jogos.</p>
 
+<h2>Design do Sistema</h2>
+<ul>
+    <li><strong>Gerenciamento de Música:</strong> Sistema para tocar e controlar as playlists.</li>
+    <li><strong>Preparação do Churrasco:</strong> Planejamento e organização da cozinha.</li>
+    <li><strong>Área de Jogos:</strong> Espaço e equipamentos para truco e sinuca.</li>
+    <li><strong>Gestão de Convidados:</strong> Controle de lista de convidados e confirmação de presença.</li>
+</ul>
+
 <h2>Requisitos Funcionais</h2>
 
 <h3>Lista de Convidados</h3>

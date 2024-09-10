@@ -19,5 +19,5 @@
     <li><a href="https://kafka.apache.org/">Apache Kafka</a></li>
     <li><a href="https://aws.amazon.com/what-is-big-data/">O que é Big Data? (AWS)</a></li>
     <li><a href="https://azure.microsoft.com/en-us/overview/what-is-big-data/">Big Data no Azure</a></li>
-    li><a href="https://www.oracle.com/br/big-data/what-is-big-data/">Big Data Oracle</a></li>
+    <li><a href="https://www.oracle.com/br/big-data/what-is-big-data/">Big Data Oracle</a></li>
 </ul>
